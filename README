@@ -42,3 +42,11 @@ OOOOOH:
 
 https://github.com/smarthomeNG/smarthome/wiki/Komplettanleitung#knxd-installieren
 https://github.com/smarthomeNG/smarthome/wiki/Komplettanleitung#smarthomeng-installieren
+
+
+
+AerosmartPI:
+
+Schnittstelle/API zur Aerosmart via USB, in Python (puplishing W.I.P)
+https://github.com/nean-and-i/aerosmartpi
+
